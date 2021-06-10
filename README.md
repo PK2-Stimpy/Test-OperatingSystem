@@ -6,7 +6,7 @@ Some asm coding. I'm new at this.
 
 # Useful stuff:
 
-*docker run --rm -it -v "%cd%":/root/env my-buildenv*
+*docker run --rm -it -v "%cd%":/root/env os-buildenv*
 
 *make build-x86_64*
 
